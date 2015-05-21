@@ -1,0 +1,35 @@
+{
+  "name": "promise-temporal-delay",
+  "version": "0.1.0",
+  "description": "A promise based delay that does NOT use setTimeout or setInterval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferrao/promise-temporal-delay.git"
+  },
+  "keywords": [
+    "q",
+    "temporal",
+    "promise",
+    "schedule",
+    "delay",
+    "wait",
+    "sleep"
+  ],
+  "author": {
+    "name": "Rui Ferrão",
+    "email": "mail@ruiferrao.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferrao/promise-temporal-delay/issues"
+  },
+  "homepage": "https://github.com/ferrao/promise-temporal-delay",
+  "dependencies": {
+    "q": "^1.4.1",
+    "temporal": "^0.4.0"
+  }
+}
