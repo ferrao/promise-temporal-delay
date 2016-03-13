@@ -1,6 +1,8 @@
 # promise-temporal-delay
 
-A promise based delay that does NOT use setTimeout or setInterval
+[![NPM](https://nodei.co/npm/promise-temporal-delay.png?compact=true)](https://nodei.co/npm/promise-temporal-delay/)
+
+A promise based delay that does NOT use `setTimeout` or `setInterval`
 
 ## Getting Started
 
